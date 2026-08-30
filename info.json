@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "878c73f28dc2d031e6cedd97588588b90a689db9",
+    "author": "Nicholas Tierney <njtierney@users.noreply.github.com>",
+    "time": "2026-06-11T22:53:58Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #192 from brownag/crew-test1\n\nfix(tar_terra_*): skip some tests if crew not installed"
+  },
+  "repo": "https://github.com/ropensci/geotargets",
+  "pkg": "geotargets",
+  "time": "2026-08-30T07:56:45Z"
+}
